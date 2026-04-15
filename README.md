@@ -1,5 +1,5 @@
 # rag-models-creating-a-vector-database
-This repo is mainly building RAG Models from Scratch with Open Source using MIMIC-III dataset
+This repo is mainly building RAG Models from Scratch with Open Source MIMIC-III dataset
 
 
 Additional Info:
